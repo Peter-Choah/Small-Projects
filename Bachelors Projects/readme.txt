@@ -1,4 +1,4 @@
-Assignments I have done for my bachelors degree.
+Assignments I have done for my Data Analytics Bachelors Degree
 
 A brief overview:
 Bank Analysis - Using ML and data analysis on a bank dataset
